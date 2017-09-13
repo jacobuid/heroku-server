@@ -1,0 +1,68 @@
+{
+     "users": [
+          {
+               "id": 0,
+               "username": "jacobuid",
+               "email": "jacobuid@gmail.com",
+               "firstName": "Jacob",
+               "lastName": "King"
+          },
+          {
+               "id": 1,
+               "username": "kortnicct",
+               "email": "kortnicct@gmail.com",
+               "firstName": "Kortni",
+               "lastName": "King"
+          }
+     ],
+     "messages": [
+          {
+               "userId": "1",
+               "message": "Hey Jacob!!",
+               "date": "2017-09-11T02:36:18.278Z",
+               "id": 1
+          },
+          {
+               "userId": "0",
+               "message": "Yea, what's up?",
+               "date": "2017-09-11T02:36:32.219Z",
+               "id": 2
+          },
+          {
+               "userId": "1",
+               "message": "Do you want to see a movie tonight?",
+               "date": "2017-09-11T02:36:52.433Z",
+               "id": 3
+          },
+          {
+               "userId": "0",
+               "message": "Sure",
+               "date": "2017-09-11T02:37:02.355Z",
+               "id": 4
+          },
+          {
+               "userId": "0",
+               "message": "which one?",
+               "date": "2017-09-11T02:37:12.973Z",
+               "id": 5
+          },
+          {
+               "userId": "1",
+               "message": "A chick flick!!!!",
+               "date": "2017-09-11T02:37:26.468Z",
+               "id": 6
+          },
+          {
+               "userId": "0",
+               "message": "ehhh... ",
+               "date": "2017-09-11T02:37:39.520Z",
+               "id": 7
+          },
+          {
+               "userId": "0",
+               "message": "=/",
+               "date": "2017-09-11T02:37:47.988Z",
+               "id": 8
+          }
+     ]
+}
